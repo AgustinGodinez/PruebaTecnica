@@ -6,7 +6,7 @@ Este proyecto es una aplicación web desarrollada con Vite, React y utiliza Tail
 
 Para empezar, clona este repositorio e instala las dependencias:
 ```
-git clone <url-del-repositorio>
+git clone https://github.com/AgustinGodinez/PruebaTecnica.git
 cd PruebaTecnica
 npm install
 npm run dev
